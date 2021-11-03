@@ -88,9 +88,16 @@ def check_messages(positions_amount_allowed):
         file_handle.write("\n")
     file_handle.close()
 
-positions_amount_allowed = 1
+positions_amount_allowed = 3
 while True:
     check_messages(positions_amount_allowed)
     ib.sleep(1)
 
 ib.run()
+
+# To print:
+# Date
+# Ticker
+# Size
+# Action
+# Long / Short

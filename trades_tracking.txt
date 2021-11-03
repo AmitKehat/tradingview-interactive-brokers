@@ -1,0 +1,96 @@
+New message was recieved for the ticker 'INTC' at 2021-11-02 16:06:04.086098.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T14:06:00Z', 'exchange': 'NASDAQ', 'ticker': 'INTC', 'bar': {'time': '2021-11-02T14:06:00Z', 'open': 49.62, 'high': 49.62, 'low': 49.62, 'close': 49.62, 'volume': 100}, 'strategy': {'position_size': -2196, 'order_action': 'sell', 'order_contracts': 2196, 'order_price': 49.620000000000005, 'order_id': 'Short', 'market_position': 'short', 'market_position_size': 2196, 'prev_market_position': 'flat', 'prev_market_position_size': 0}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=0.0, avgCost=0.0)]
+There are no open positions in Interactive Brokers portfolio. Accepting new trade for 'INTC'.
+
+New message was recieved for the ticker 'AAPL' at 2021-11-02 16:09:01.726333.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T14:09:00Z', 'exchange': 'NASDAQ', 'ticker': 'AAPL', 'bar': {'time': '2021-11-02T14:09:00Z', 'open': 149.65, 'high': 149.65, 'low': 149.65, 'close': 149.65, 'volume': 100}, 'strategy': {'position_size': -728, 'order_action': 'sell', 'order_contracts': 728, 'order_price': 149.65, 'order_id': 'Short', 'market_position': 'short', 'market_position_size': 728, 'prev_market_position': 'flat', 'prev_market_position_size': 0}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=-2196.0, avgCost=49.6138634348816), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=0.0, avgCost=0.0)]
+Portfolio has open positions.
+The ticker 'AAPL' has no open position in portfolio, but no more open positions allowed. Skipping order...
+
+New message was recieved for the ticker 'NVDA' at 2021-11-02 16:12:02.928982.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T14:12:00Z', 'exchange': 'NASDAQ', 'ticker': 'NVDA', 'bar': {'time': '2021-11-02T14:12:00Z', 'open': 260.4121, 'high': 260.4121, 'low': 260.4121, 'close': 260.4121, 'volume': 200}, 'strategy': {'position_size': -418, 'order_action': 'sell', 'order_contracts': 418, 'order_price': 260.41, 'order_id': 'Short', 'market_position': 'short', 'market_position_size': 418, 'prev_market_position': 'flat', 'prev_market_position_size': 0}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=-2196.0, avgCost=49.61386345), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=0.0, avgCost=0.0)]
+Portfolio has open positions.
+The ticker 'NVDA' has no open position in portfolio, but no more open positions allowed. Skipping order...
+
+New message was recieved for the ticker 'FB' at 2021-11-02 17:18:03.302534.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T15:18:00Z', 'exchange': 'NASDAQ', 'ticker': 'FB', 'bar': {'time': '2021-11-02T15:18:00Z', 'open': 331.03, 'high': 331.03, 'low': 331.03, 'close': 331.03, 'volume': 100}, 'strategy': {'position_size': -109, 'order_action': 'sell', 'order_contracts': 109, 'order_price': 331.03000000000003, 'order_id': 'Short', 'market_position': 'short', 'market_position_size': 109, 'prev_market_position': 'flat', 'prev_market_position_size': 0}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=0.0, avgCost=0.0)]
+There are no open positions in Interactive Brokers portfolio. Accepting new trade for 'FB'.
+
+New message was recieved for the ticker 'AAPL' at 2021-11-02 17:29:26.628682.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T15:29:24Z', 'exchange': 'NASDAQ', 'ticker': 'AAPL', 'bar': {'time': '2021-11-02T15:27:00Z', 'open': 151.11, 'high': 151.155, 'low': 151.06, 'close': 151.155, 'volume': 263340}, 'strategy': {'position_size': 0, 'order_action': 'buy', 'order_contracts': 242, 'order_price': 151.16, 'order_id': 'Short SL/TP', 'market_position': 'flat', 'market_position_size': 0, 'prev_market_position': 'short', 'prev_market_position_size': 242}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=-109.0, avgCost=330.94902635), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=0.0, avgCost=0.0)]
+Portfolio has open positions.
+The number of open postions is less than the amount allowed. Open positions: 1. Amount allowed: 3.
+New position for ticker 'AAPL'.
+
+New message was recieved for the ticker 'AAPL' at 2021-11-02 17:36:01.867336.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T15:36:00Z', 'exchange': 'NASDAQ', 'ticker': 'AAPL', 'bar': {'time': '2021-11-02T15:36:00Z', 'open': 151.12, 'high': 151.12, 'low': 151.12, 'close': 151.12, 'volume': 200}, 'strategy': {'position_size': -239, 'order_action': 'sell', 'order_contracts': 239, 'order_price': 151.12, 'order_id': 'Short', 'market_position': 'short', 'market_position_size': 239, 'prev_market_position': 'flat', 'prev_market_position_size': 0}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=-109.0, avgCost=330.94902635), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=242.0, avgCost=151.1754629)]
+Portfolio has open positions.
+Ticker 'AAPL' has open position in portfolio. Place new order.
+
+New message was recieved for the ticker 'NVDA' at 2021-11-02 17:42:31.788981.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T15:42:30Z', 'exchange': 'NASDAQ', 'ticker': 'NVDA', 'bar': {'time': '2021-11-02T15:42:00Z', 'open': 265.4, 'high': 265.69, 'low': 265.34, 'close': 265.69, 'volume': 33022}, 'strategy': {'position_size': 0, 'order_action': 'buy', 'order_contracts': 139, 'order_price': 265.69, 'order_id': 'Short SL/TP', 'market_position': 'flat', 'market_position_size': 0, 'prev_market_position': 'short', 'prev_market_position_size': 139}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=-109.0, avgCost=330.94902635), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=3.0, avgCost=151.1754629)]
+Portfolio has open positions.
+The number of open postions is less than the amount allowed. Open positions: 2. Amount allowed: 3.
+New position for ticker 'NVDA'.
+
+New message was recieved for the ticker 'NVDA' at 2021-11-02 18:00:05.107610.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T16:00:00Z', 'exchange': 'NASDAQ', 'ticker': 'NVDA', 'bar': {'time': '2021-11-02T16:00:00Z', 'open': 264.68, 'high': 264.68, 'low': 264.68, 'close': 264.68, 'volume': 300}, 'strategy': {'position_size': -136, 'order_action': 'sell', 'order_contracts': 136, 'order_price': 264.68, 'order_id': 'Short', 'market_position': 'short', 'market_position_size': 136, 'prev_market_position': 'flat', 'prev_market_position_size': 0}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=-109.0, avgCost=330.94902635), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=3.0, avgCost=151.1754629), Position(account='DU1725635', contract=Stock(conId=4815747, symbol='NVDA', exchange='NASDAQ', currency='USD', localSymbol='NVDA', tradingClass='NMS'), position=139.0, avgCost=265.7189328)]
+Portfolio has open positions.
+Ticker 'NVDA' has open position in portfolio. Place new order.
+
+New message was recieved for the ticker 'FB' at 2021-11-02 20:18:01.723841.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T18:18:00Z', 'exchange': 'NASDAQ', 'ticker': 'FB', 'bar': {'time': '2021-11-02T18:18:00Z', 'open': 325.545, 'high': 325.545, 'low': 325.545, 'close': 325.545, 'volume': 300}, 'strategy': {'position_size': 112, 'order_action': 'buy', 'order_contracts': 221, 'order_price': 325.55, 'order_id': 'Long', 'market_position': 'long', 'market_position_size': 112, 'prev_market_position': 'short', 'prev_market_position_size': 109}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=-109.0, avgCost=330.94902635), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=3.0, avgCost=151.1754629), Position(account='DU1725635', contract=Stock(conId=4815747, symbol='NVDA', exchange='NASDAQ', currency='USD', localSymbol='NVDA', tradingClass='NMS'), position=3.0, avgCost=265.71893285)]
+Portfolio has open positions.
+Ticker 'FB' has open position in portfolio. Place new order.
+
+New message was recieved for the ticker 'NVDA' at 2021-11-02 20:48:02.112628.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T18:48:00Z', 'exchange': 'NASDAQ', 'ticker': 'NVDA', 'bar': {'time': '2021-11-02T18:48:00Z', 'open': 263.335, 'high': 263.335, 'low': 263.335, 'close': 263.335, 'volume': 200}, 'strategy': {'position_size': 137, 'order_action': 'buy', 'order_contracts': 273, 'order_price': 263.34000000000003, 'order_id': 'Long', 'market_position': 'long', 'market_position_size': 137, 'prev_market_position': 'short', 'prev_market_position_size': 136}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=112.0, avgCost=325.57614005), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=3.0, avgCost=151.1754629), Position(account='DU1725635', contract=Stock(conId=4815747, symbol='NVDA', exchange='NASDAQ', currency='USD', localSymbol='NVDA', tradingClass='NMS'), position=3.0, avgCost=265.71893285)]
+Portfolio has open positions.
+Ticker 'NVDA' has open position in portfolio. Place new order.
+
+New message was recieved for the ticker 'AAPL' at 2021-11-02 21:00:02.505374.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T19:00:00Z', 'exchange': 'NASDAQ', 'ticker': 'AAPL', 'bar': {'time': '2021-11-02T19:00:00Z', 'open': 150.3684, 'high': 150.3684, 'low': 150.3684, 'close': 150.3684, 'volume': 400}, 'strategy': {'position_size': 240, 'order_action': 'buy', 'order_contracts': 479, 'order_price': 150.37, 'order_id': 'Long', 'market_position': 'long', 'market_position_size': 240, 'prev_market_position': 'short', 'prev_market_position_size': 239}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=112.0, avgCost=325.57614005), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=3.0, avgCost=151.1754629), Position(account='DU1725635', contract=Stock(conId=4815747, symbol='NVDA', exchange='NASDAQ', currency='USD', localSymbol='NVDA', tradingClass='NMS'), position=276.0, avgCost=263.2765094)]
+Portfolio has open positions.
+Ticker 'AAPL' has open position in portfolio. Place new order.
+
+New message was recieved for the ticker 'FB' at 2021-11-02 21:51:02.329311.
+Message data:
+{'passphrase': 'somelongstring123', 'time': '2021-11-02T19:51:00Z', 'exchange': 'NASDAQ', 'ticker': 'FB', 'bar': {'time': '2021-11-02T19:51:00Z', 'open': 327.71, 'high': 327.71, 'low': 327.71, 'close': 327.71, 'volume': 200}, 'strategy': {'position_size': -111, 'order_action': 'sell', 'order_contracts': 223, 'order_price': 327.71, 'order_id': 'Short', 'market_position': 'short', 'market_position_size': 111, 'prev_market_position': 'long', 'prev_market_position_size': 112}}
+Interactive Brokers positions:
+[Position(account='DU1725635', contract=Stock(conId=107113386, symbol='FB', exchange='NASDAQ', currency='USD', localSymbol='FB', tradingClass='NMS'), position=112.0, avgCost=325.57614005), Position(account='DU1725635', contract=Stock(conId=270639, symbol='INTC', exchange='NASDAQ', currency='USD', localSymbol='INTC', tradingClass='NMS'), position=0.0, avgCost=0.0), Position(account='DU1725635', contract=Stock(conId=265598, symbol='AAPL', exchange='NASDAQ', currency='USD', localSymbol='AAPL', tradingClass='NMS'), position=482.0, avgCost=150.36035255), Position(account='DU1725635', contract=Stock(conId=4815747, symbol='NVDA', exchange='NASDAQ', currency='USD', localSymbol='NVDA', tradingClass='NMS'), position=276.0, avgCost=263.2765094)]
+Portfolio has open positions.
+Ticker 'FB' has open position in portfolio. Place new order.
+
